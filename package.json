@@ -1,0 +1,19 @@
+{
+  "name": "js-interpreter",
+  "version": "1.0.0",
+  "description": "JS-Interpreter\r ==============",
+  "main": "acorn_interpreter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azanbertre/JS-Interpreter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azanbertre/JS-Interpreter/issues"
+  },
+  "homepage": "https://github.com/azanbertre/JS-Interpreter#readme"
+}
